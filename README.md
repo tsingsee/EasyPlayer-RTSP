@@ -1,6 +1,6 @@
 # EasyPlayer-RTSP播放器 #
 
-EasyPlayer-RTSP播放器是一套RTSP专用的播放器，包括有：Windows（支持IE插件，npapi插件）、Android、iOS三个平台，是由[**紫鲸团队**](http://www.pvale.com "紫鲸云")开发和维护的区别于市面上大部分的通用播放器，EasyPlayer-RTSP系列从2014年初发展至今得到了各行各业(尤其是安防行业)的广泛应用，其主要原因是EasyPlayer-RTSP更加精炼、更加专注，具备非常低的延时，非常高RTSP协议兼容性，编码数据解析等方面，都有非常大的优势，尤其是在有特殊参数/私有字段的情况下，非常容易进行定制和兼容！
+EasyPlayer-RTSP播放器是一套RTSP专用的播放器，包括有：Windows（支持IE插件，npapi插件）、Android、iOS三个平台，是由[**青犀TSINGSEE开放平台**](http://open.tsingsee.com "青犀TSINGSEE开放平台")开发和维护的区别于市面上大部分的通用播放器，EasyPlayer-RTSP系列从2014年初发展至今得到了各行各业(尤其是安防行业)的广泛应用，其主要原因是EasyPlayer-RTSP更加精炼、更加专注，具备非常低的延时，非常高RTSP协议兼容性，编码数据解析等方面，都有非常大的优势，尤其是在有特殊参数/私有字段的情况下，非常容易进行定制和兼容！
 
 > EasyPlayer-RTSP在多年与VLC的对标过程中，积累了广泛的应用场景，EasyPlayer-RTSP底层与上层全部自主开发，自主知识产权，可以说在RTSP播放器领域，目前最可靠、最可控的当属EasyPlayer-RTSP，**可实战测试！！！**
 
@@ -99,6 +99,6 @@ EasyPlayerPro虽然支持了几乎所有的流媒体协议，但是在很多场�
 
 **EasyNVR**无插件直播方案：[www.EasyNVR.com](http://www.easynvr.com)
 
-Copyright &copy; EasyDarwin Team 2012-2018
+Copyright &copy; EasyDarwin Team 2012-2019
 
 ![EasyDarwin](http://www.easydarwin.org/skin/easydarwin/images/wx_qrcode.jpg)
